@@ -2,7 +2,7 @@
   "name": "codesandbox-test-git-app",
   "version": "0.1.0",
   "private": true,
-  "keywords": ["test1", "test2"],
+  "keywords": ["test1", "test3"],
   "dependencies": {
     "react": "^15.6.1",
     "react-dom": "^15.6.1"
