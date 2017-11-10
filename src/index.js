@@ -3,6 +3,6 @@ import ReactDOM from 'react-dom';
 import App from './App';
 import './index.css';
 
-console.log('ugh');
+console.log('updated sandbox');
 
 ReactDOM.render(<App />, document.getElementById('root'));
