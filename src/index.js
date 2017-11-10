@@ -3,6 +3,6 @@ import ReactDOM from 'react-dom';
 import App from './App';
 import './index.css';
 
-console.log('tes2t2');
+console.log('uuuugh');
 
 ReactDOM.render(<App />, document.getElementById('root'));
