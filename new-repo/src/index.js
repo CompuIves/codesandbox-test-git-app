@@ -1,5 +1,4 @@
-import React from 'react';
-import { render } from 'react-dom'
-import SecondFile from './second-file';
+import React from "react";
+import { render } from "react-dom";
 
-render(<SecondFile />, document.getElementById('root'));
+render(<div />, document.getElementById("root"));
