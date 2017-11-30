@@ -1,4 +1,5 @@
 import React from 'react';
 import { render } from 'react-dom'
+import SecondFile from './second-file';
 
-render(<div />, document.getElementById('root'));
+render(<SecondFile />, document.getElementById('root'));
